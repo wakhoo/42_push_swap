@@ -5,9 +5,7 @@ Validated: **06/07/2024**
 
 Grade: ✅ **100%** ✅
 
-One evaluater made mistake.
-
-So it's 96% on the screen but originaly score should be 100%
+One evaluator made a mistake, so the displayed score is 96%, but the original score should be 100%.
 
 ![Grade](https://github.com/wakhoo/42_push_swap/blob/main/assets/Screenshot%202025-07-21%20at%2011-44-12%20Intra%20Projects%20push_swap.png?raw=true)
 
